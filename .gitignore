@@ -1,0 +1,17 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Jupyter Notebook temporary files
+~.ipynb
+*.nbconvert.ipynb
+
+# Jupyter Notebook kernel logs
+*.log
+
+# Jupyter Notebook output files
+*.html
+*.pdf
+*.py
+
+# Python virtual environment
+.mc_env/
